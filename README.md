@@ -22,7 +22,7 @@ Built using **Streamlit**, it's super easy to use — just paste your text and g
 ### 1. Clone the project
 
 ```bash
-git clone https://github.com/your-username/article-summarizer
+git clone https://github.com/Pawanprajapati62/Ariticle-Summarizer.git
 cd article-summarizer
 
 ```
